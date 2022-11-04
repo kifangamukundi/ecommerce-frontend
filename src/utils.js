@@ -4,4 +4,4 @@ export const getError = (error) => {
     : error.message;
 };
 
-export const BASE_URL = "https://ecommerce-backend-qw7l.onrender.com";
+export const BASE_URL = "https://ecommerce-backend-spa4.onrender.com";
